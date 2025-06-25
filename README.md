@@ -53,7 +53,7 @@ o roteiro deve seguir a seguinte estrutura:
 [Questionamentos e ligação com a atualidade]
 [Finalização]
 
-o podcast será apresentado por duas pessoas, Cooper e Laura.
+> o podcast será apresentado por duas pessoas, Cooper e Laura.
 Na introdução fale brevemente sobre a sinopse do filme e os apresente os personagens principais.
 Em personagens, faça uma análise psicanalítica de cada um dos principais e aponte questionamentos.
 Na análise da história também faça uma análise psicológica baseada na psicanálise.
