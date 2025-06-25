@@ -26,7 +26,7 @@ _Slogan:_ **“Onde o cinema encontra o inconsciente.”**
 
 para isso utilizei o seguinte prompt:
 
-"Estou criando um podcast do zero e primeiro preciso de uma lista de ideias pde nomes.
+> "Estou criando um podcast do zero e primeiro preciso de uma lista de ideias pde nomes.
 O objetivo do podcast é que em cada episódio será uma interpretação psicanalítica de algum filme. Então eu quero um nome criagivo e mordeno que una psicanálise e cinema.
 Liste também slogans para o podcast."
 
@@ -45,7 +45,7 @@ Quero num tom mais sério e que os dois estejam concentrados."
 
 Para a criação do roteiro, estruturei o prompt em duas partes:
 
-"a partir de agora você vai agir como um roteirista para um podcast de análise de filmes pela visão da psicanálise. o filme de hoje vai ser o Iluminado.
+> "a partir de agora você vai agir como um roteirista para um podcast de análise de filmes pela visão da psicanálise. o filme de hoje vai ser o Iluminado.
 o roteiro deve seguir a seguinte estrutura:
 [Introdução]
 [Personagens]
@@ -66,7 +66,7 @@ E depois finalize o podcast de maneira intrigante para o próximo episódio"
 
 Para a vinheta utilizei o segiunte prompt:
 
-"Agora quero sugestões de vinheta para o podcast que tenha um tom provocativo e reflexivo para que o ouvinte possa entrar no clima.
+> "Agora quero sugestões de vinheta para o podcast que tenha um tom provocativo e reflexivo para que o ouvinte possa entrar no clima.
 Sugira também um fundo musical sem direitos autorais para usar nessa vinheta."
 
 O ChatGPT me sugeriu algumas opções e eu acabei juntando duas delas e adaptando.
